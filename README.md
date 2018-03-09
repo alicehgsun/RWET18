@@ -6,4 +6,5 @@ Reading and Writing Electronic Text 2018
 <br>Artwork Label Generator based on Love Letter example in [Implementations of early and well-known poetry generators](https://github.com/aparrish/rwet/blob/master/some-poetry-generators.ipynb) by Allison
 3. [Week 4: Lists and List Comprehensions](https://github.com/alicehgsun/RWET18/blob/master/week4/medical-affix.ipynb)
 <br>Some experiment with [affix in medical terminology](https://en.wikipedia.org/wiki/List_of_medical_roots,_suffixes_and_prefixes)
-
+3. [Week 6: Data and Grammars](https://github.com/alicehgsun/RWET18/blob/master/week6/acrostic.ipynb)
+<br>An acrostic poem generator with [And our faces, my heart, brief as photos](https://www.amazon.com/Our-Faces-Heart-Brief-Photos/dp/0679736565) by John Berger
